@@ -1,0 +1,6 @@
+name = "svelte-kit-cloudflare-d1-example"
+
+[[d1_databases]]
+binding = "DATABASE"
+database_name = "d1-with-svelte-kit-example"
+database_id = "7e3413bf-1fa7-48dc-8a8b-b759cb1d9c41"
